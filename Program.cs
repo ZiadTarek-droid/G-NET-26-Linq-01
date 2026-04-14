@@ -8,15 +8,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             #region Q1
-            //    List<Product> ProductList = new List<Product>
-            //{
-            //    new Product { ProductName = "Chai", Category = "Beverages", UnitPrice = 18, UnitsInStock = 39 },
-            //    new Product { ProductName = "Chang", Category = "Beverages", UnitPrice = 19, UnitsInStock = 17 },
-            //    new Product { ProductName = "Aniseed Syrup", Category = "Condiments", UnitPrice = 10, UnitsInStock = 13 },
-            //    new Product { ProductName = "Chef Anton's Cajun Seasoning", Category = "Condiments", UnitPrice = 22, UnitsInStock = 53 },
-            //    new Product { ProductName = "Ikura", Category = "Seafood", UnitPrice = 31, UnitsInStock = 20 },
-            //    new Product { ProductName = "Konbu", Category = "Seafood", UnitPrice = 6, UnitsInStock = 24 }
-            //};
 
             //    var seafoodProducts = ProductList
             //    .Where(p => p.Category == "Seafood")
