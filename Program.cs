@@ -66,6 +66,21 @@ namespace ConsoleApp1
             //    Console.WriteLine($"{p.ProductName} - Stock: {p.UnitsInStock}");
             //} 
             #endregion
+
+            #region Q6
+            //var productStatus = ProductList
+            //.Select(p => new
+            //{
+            //    Name = p.ProductName,
+            //    Price = p.UnitPrice,
+            //    StockStatus = p.UnitsInStock > 0 ? "Available" : "Out of Stock"
+            //});
+
+            //foreach (var p in productStatus)
+            //{
+            //    Console.WriteLine($"{p.Name} - {p.Price} - {p.StockStatus}");
+            //} 
+            #endregion
         }
         }
     }
