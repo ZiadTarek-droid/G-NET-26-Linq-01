@@ -36,7 +36,16 @@ namespace ConsoleApp1
             //    Console.WriteLine(name); 
             #endregion
 
+            #region Q3
+            //var sortedByPrice = ProductList
+            //.OrderBy(p => p.UnitPrice)
+            //.Select(p => new { p.ProductName, p.UnitPrice });
 
+            //foreach (var p in sortedByPrice)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - {p.UnitPrice}");
+            //} 
+            #endregion
         }
         }
     }
