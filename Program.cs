@@ -81,6 +81,16 @@ namespace ConsoleApp1
             //    Console.WriteLine($"{p.Name} - {p.Price} - {p.StockStatus}");
             //} 
             #endregion
+
+            #region Q7
+            //var indexedProducts = ProductList
+            //.Select((p, index) => new { Index = index + 1, p.ProductName });
+
+            //foreach (var p in indexedProducts)
+            //{
+            //    Console.WriteLine($"{p.Index}. {p.ProductName}");
+            //} 
+            #endregion
         }
         }
     }
