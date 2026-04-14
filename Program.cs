@@ -56,6 +56,16 @@ namespace ConsoleApp1
             //    Console.WriteLine($"{p.ProductName} - {p.UnitPrice}");
             //} 
             #endregion
+
+            #region Q5
+            //var condimentsInStock = ProductList
+            // .Where(p => p.UnitsInStock > 0 && p.Category == "Condiments");
+
+            //foreach (var p in condimentsInStock)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - Stock: {p.UnitsInStock}");
+            //} 
+            #endregion
         }
         }
     }
