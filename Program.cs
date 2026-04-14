@@ -162,6 +162,16 @@ namespace ConsoleApp1
             //    Console.WriteLine($"{o.CustomerID} - {o.OrderDate}");
             //} 
             #endregion
+
+            #region Q11
+            //var productWithIndex = ProductList
+            //.Select((p, index) => new { Position = index + 1, p.ProductName });
+
+            //foreach (var p in productWithIndex)
+            //{
+            //    Console.WriteLine($"{p.Position} - {p.ProductName}");
+            //} 
+            #endregion
         }
         }
     }
