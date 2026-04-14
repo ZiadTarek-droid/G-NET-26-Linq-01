@@ -91,6 +91,17 @@ namespace ConsoleApp1
             //    Console.WriteLine($"{p.Index}. {p.ProductName}");
             //} 
             #endregion
+
+            #region Q8
+            //var sortedProducts = ProductList
+            //.OrderBy(p => p.Category)
+            //.ThenByDescending(p => p.UnitPrice);
+
+            //foreach (var p in sortedProducts)
+            //{
+            //    Console.WriteLine($"{p.Category} - {p.ProductName} - {p.UnitPrice}");
+            //} 
+            #endregion
         }
         }
     }
